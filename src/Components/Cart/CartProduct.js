@@ -1,4 +1,3 @@
-// CartProduct.js
 import React from "react";
 import "./CartProduct.css";
 

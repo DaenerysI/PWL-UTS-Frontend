@@ -1,4 +1,3 @@
-// ProductForm.js
 import React, { useState } from "react";
 import "./ProductForm.css";
 
