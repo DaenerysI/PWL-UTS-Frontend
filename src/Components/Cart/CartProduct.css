@@ -1,0 +1,34 @@
+/* CartProduct.css */
+.cart-product {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cart-product-image {
+  max-width: 100px;
+  margin-right: 10px;
+}
+
+.cart-product-details {
+  flex-grow: 1;
+}
+
+.cart-product-actions button {
+  background-color: #ff5c5c;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.cart-product-actions button:hover {
+  background-color: #ff3d3d;
+}
